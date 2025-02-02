@@ -5,7 +5,7 @@ I'm a **Full Stack Web Developer** with a strong focus on front-end excellence. 
 ### 🚀 What I Do  
 I've led projects ranging from personal endeavors like **Git-N-Shape** and **adoptABLE** to professional applications serving **300+ daily users**. My work includes developing major **HR management applications** and integrated **child applications** that support company-wide operations. Colleagues recognize me as **adaptable, motivated, and a proactive problem-solver**.  
 
-With a **mobile-first design philosophy**, I blend technical proficiency with seamless UI/UX to deliver **high-quality solutions** while fostering meaningful professional connections.  
+With a **mobile-first design philosophy**, I blend technical proficiency with seamless UX/UI to deliver **high-quality solutions** while fostering meaningful professional connections.  
 
 ---
 
