@@ -10,7 +10,7 @@ With a **mobile-first design philosophy**, I blend technical proficiency with se
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Frameworks:** JavaScript, TypeScript, PHP, HTML, CSS, SASS, BEM, Tailwind
+- **Languages & Frameworks:** JavaScript, TypeScript, PHP, Laravel, HTML, CSS, SASS, BEM, Tailwind
 - **Libraries & Tools:** Vue, Vite, Nuxt, React, ExtJS, Sencha  
 - **Backend & APIs:** Node.js, Express.js, GraphQL, Web & Server-Side APIs  
 - **Databases:** SQL, NoSQL, Supabase, Firebase  
