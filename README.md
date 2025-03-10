@@ -14,7 +14,7 @@ With a **mobile-first design philosophy**, I blend technical proficiency with se
 - **Libraries & Tools:** Vue, Vite, Nuxt, React, ExtJS, Sencha
 - **Backend & APIs:** Node.js, Express.js, GraphQL, Web & Server-Side APIs
 - **Databases:** SQL, NoSQL, Supabase, Firebase
-- **Architecture & Development:** Agile, OOP, ORM, MVC, MERN
+- **Architecture & Development:** Agile, Scrum, OOP, ORM, MVC, MERN
 - **Design & Testing:** Figma, Insomnia, Postman, Cypress, Jest
 
 ---
