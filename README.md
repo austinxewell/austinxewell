@@ -33,21 +33,21 @@ I’m always open to networking, collaborating, or just chatting about tech.
 ---
 
 ### 📊 GitHub Stats  
-![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinxewell&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinxewell&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
 ---
 
 ### 🌟 GitHub Streak  
-![Austin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=austinxewell&theme=radical)
+![Austin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=austinxewell&theme=default)
 
 ---
 
 ### 🗂️ Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinxewell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinxewell&theme=default)
 
 ---
 
 ### 🧑‍💻 GitHub Activity  
-![Austin's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinxewell&theme=radical)
+![Austin's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinxewell&theme=default)
 
 ---
