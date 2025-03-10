@@ -47,7 +47,7 @@ I’m always open to networking, collaborating, or just chatting about tech.
 
 ---
 
-### 📈 Contribution Graph  
-![Austin's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=austinxewell&theme=github)
+### 🧑‍💻 GitHub Activity  
+![Austin's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinxewell&theme=radical)
 
 ---
