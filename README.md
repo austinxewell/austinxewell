@@ -26,4 +26,4 @@ With a **mobile-first design philosophy**, I blend technical proficiency with se
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinxewell)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinxewell&show_icons=true&theme=radical)
