@@ -1,26 +1,21 @@
 ## Hi, I'm Austin 👋  
 
-I'm a **Full Stack Web Developer** with a passion for creating seamless and engaging user experiences. I’m always eager to learn and tackle new challenges. I earned my Full Stack Web Development certificate from the **University of Utah’s Coding Bootcamp** and specialize in front-end technologies like **React, Vue, and TypeScript**, along with building robust back-end systems with **Node.js** and **PHP**.
+I'm a **Full Stack Web Developer** with a strong focus on **front-end excellence**. I earned my Full Stack Web Development certificate from the University of Utah’s Coding Bootcamp, honing my skills in **JavaScript, CSS, React.js, responsive design**, and more. I've further expanded my expertise with specialized certifications in **Vue, Vite, Nuxt, PHP,** and **TypeScript**.
 
-### 🚀 What I Do  
-I've led projects ranging from personal endeavors like **Git-N-Shape**, a fitness tracking app, and **adoptABLE**, a pet adoption platform, to professional applications serving **300+ daily users**. For example, in the **HR management system** I developed, I integrated **child applications** that streamlined company-wide operations, saving countless hours for employees.
+### 🚀 What I Do
+I've led projects ranging from personal endeavors like **Git-N-Shape**, a fitness tracking app, and **adoptABLE**, a domestic violence support platform, to professional applications serving 300+ daily users. My work includes developing major HR management applications and integrated child applications that support company-wide operations. Colleagues recognize me as **adaptable, motivated,** and a **proactive problem-solver**.
 
 With a **mobile-first design philosophy**, I blend technical proficiency with seamless **UI/UX** to deliver **high-quality solutions** while fostering meaningful professional connections.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages & Frameworks:** JavaScript, TypeScript, PHP, Laravel, HTML, CSS, SASS, Tailwind  
-- **Frontend:** React, Vue, Nuxt, Vite  
-- **Backend:** Node.js, Express.js, GraphQL, APIs  
-- **Databases:** SQL, NoSQL (Supabase, Firebase)  
-- **Design & Tools:** Figma, Insomnia, Postman, Agile Development  
-- **Testing & Architecture:** Jest, Mocha, ORM, MVC, MERN
-
----
-
-## 🚀 What I'm Learning  
-I'm currently diving deeper into **serverless architecture** and experimenting with **GraphQL** for more efficient APIs. I’m also exploring **Machine Learning** with JavaScript to integrate smart features into my web applications.
+## 🛠️ Tech Stack
+- **Languages & Frameworks: JavaScript, TypeScript, PHP, Laravel, HTML, CSS, SASS, BEM, Tailwind
+- **Libraries & Tools: Vue, Vite, Nuxt, React, ExtJS, Sencha
+- **Backend & APIs: Node.js, Express.js, GraphQL, Web & Server-Side APIs
+- **Databases: SQL, NoSQL, Supabase, Firebase
+- **Architecture & Development: Agile, OOP, ORM, MVC, MERN
+- **Design & Testing: Figma, Insomnia, Postman, Cypress, Jest
 
 ---
 
