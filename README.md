@@ -22,7 +22,7 @@ With a **mobile-first design philosophy**, I blend technical proficiency with se
 ## 📬 Let's Connect!  
 I’m always open to networking, collaborating, or just chatting about tech.  
 - 📧 Email: [austin.ewell86@gmail.com](mailto:austin.ewell86@gmail.com)  
-- 🌐 Portfolio: [austinxewell.github.io/react-portfolio](https://austinxewell.github.io/react-portfolio/)  
+- 🌐 Portfolio: [austinxewell.github.io/react-portfolio](https://auewellify.dev)  
 - 🔗 LinkedIn: [linkedin.com/in/austin-ewell-01a60313a](https://www.linkedin.com/in/austin-ewell-01a60313a/)  
 
 ---
