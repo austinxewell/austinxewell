@@ -32,11 +32,6 @@ I’m always open to networking, collaborating, or just chatting about tech.
 
 ---
 
-### 🌟 GitHub Streak  
-![Austin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=austinxewell&theme=default)
-
----
-
 ### 🗂️ Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinxewell&theme=default)
 
