@@ -32,6 +32,5 @@ I’m open to networking, collaboration, and discussing web development best pra
 - 📧 [Email](mailto:austin.ewell86@gmail.com)  
 - 🌐 [Portfolio](https://auewellify.dev)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/austin-ewell-01a60313a/)  
-- 🐙 [GitHub](https://github.com/austinxewell)  
 - 📝 [Dev Blog](https://austinxewell.github.io/my-dev-blog/)
 
