@@ -2,7 +2,11 @@
 
 I’m a **Front-End Engineer** focused on building **scalable, maintainable, and user-friendly web applications**. I specialize in **Nuxt, TypeScript, Vue, and modern front-end architectures**, and I enjoy translating complex design and product requirements into seamless user experiences.
 
-I’ve led projects ranging from **internal applications supporting 300+ daily users** to personal projects like **Git-N-Shape**, a fitness tracker, and **adoptABLE**, a domestic violence support platform. My work spans the full front-end stack, including responsive design, state management, and integrations with back-end services, always with a focus on **performance, accessibility, and developer efficiency**.
+Some of the projects I’ve worked on include:
+
+- **Planning Poker** – A collaborative Agile estimation platform built with Nuxt 3 and TypeScript. Supports live voting and team-based planning rooms.  
+- **Nuxt ESLint Automation Script** – A CLI tool that automates ESLint setup for Nuxt projects, streamlining code quality and developer workflow.  
+- **Git-N-Shape** – A fitness tracking app that supports multiple users, team challenges, and shared data, showcasing collaborative features and team development.
 
 I also maintain a **dev blog** where I document milestones, experiments, and insights outside of GitHub: [https://austinxewell.github.io/my-dev-blog/](https://austinxewell.github.io/my-dev-blog/)
 
